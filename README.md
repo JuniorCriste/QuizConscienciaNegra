@@ -17,7 +17,7 @@ Jogo com 35 questões, baseado na estrutura do [Quiz Capixaba](https://github.co
 ### 🔗 Links Úteis
 | Link  | Sobre |
 | ----------------------------- | ------------------------------ |
-| [**Acessar Jogo**](https://juniorcriste.github.io/QuizConscienciaNegra/) | Jogo de Perguntas e Respostas sobre o Espírito Santo |
+| [**Acessar Jogo**](https://juniorcriste.github.io/QuizConscienciaNegra/) | Quiz da Consciência Negra  |
 | [**Quem Sou Eu**](https://github.com/JuniorCriste) | Minha página inicial no GitHub |
 | [**Mais Projetos**](https://github.com/JuniorCriste?tab=repositories) | Repositórios diversos e diversas linguagens |
 | [**Site/Blog & Social**](https://informaticode.com.br) | Site e redes sociais do Dev |
