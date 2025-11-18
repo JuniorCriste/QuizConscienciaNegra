@@ -127,7 +127,7 @@ const quizData = [
     {
         question: "Quem foi a primeira mulher negra a ganhar o Jabuti de Literatura?",
         options: ["Carolina Maria de Jesus", "Conceição Evaristo", "Sueli Carneiro", "Elisa Lucinda"],
-        answer: "Carolina Maria de Jesus"
+        answer: "Conceição Evaristo"
     },
     {
         question: "Qual é a escritora negra criada no ES, autora, atriz e poetisa, conhecida por sua força poética?",
@@ -172,7 +172,7 @@ const quizData = [
     {
         question: "Qual é o programa de TV do Espírito Santo que possui um quadro chamado “Pretitude”?",
         options: ["Em Movimento", "Bom Dia ES", "ESTV", "Gazeta Comunidade"],
-        answer: "Gazeta Comunidade"
+        answer: "Em Movimento"
     }
 ];
 
